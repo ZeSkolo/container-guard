@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.data/
+.state/
+*.sqlite*
+*.db
+*.db-*
+*.log
+*.pem
+*.key
+credentials*
+.DS_Store
